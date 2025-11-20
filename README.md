@@ -1,1 +1,9 @@
 # art_style_classifier
+
+MobileNetV2 colab link:
+https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/n00hara/art-movement-styles.4a75b945-97eb-469b-bbe6-a2e2194c4147.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20251118/auto/storage/goog4_request%26X-Goog-Date%3D20251118T163400Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D91ad121ea2f65f486184066b423e56038031ff7f4d9352f4e2a404a0204c743460781bdf42364732a8b582bba6b94c371a44b5b00d18f31a5bbbbd8850795efcd9c6da7fdfc45898ae86462c971752c6e134938c92b48ec16b723d5cd43b34b33c4b3ad75bff47d1b0d5987623b6f031f9fc6ef2b25a36f1b19122bf83ad41455282a4702f312e0c6099ad473d6e8dd2cbaad742032929b5533e73637e9dbe7470e737efeaa7d722884bd1e3f13334ec7f2386ffb3c29c97c6a4e87b71116c0d4acd6ff15de9bba36a5fd482476d9e3438a03b27f232029df4ae8bb89d4287f6ad4863703be482667064e1c622d795a84689b1a3363f6be74c0ca9424afc5432
+
+
+
+ResNet18 colab link:
+https://colab.research.google.com/drive/1NWEkEcyeYNoOQbd0Fq6RK283LJ-NPvyF?usp=sharing
